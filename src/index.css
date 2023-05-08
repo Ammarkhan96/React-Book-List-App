@@ -14,8 +14,8 @@
 
 .heading{
   text-align: center;
-  font-size: 28px;
   font-family: 'Times New Roman', Times, serif;
+  font-weight: 800;
 }
 
 .book{
@@ -72,4 +72,9 @@
 .back-btn{
   width: 100%;
   margin-top:7px;
+}
+
+h1 {
+  font-weight: 800;
+  color: teal;
 }
